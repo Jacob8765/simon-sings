@@ -6,7 +6,7 @@ Please fill in the following fields:
 
 ### Description of the issue:
 
-### Description this fix or PR:
+### Description of this fix or PR:
 
 ### Testing results:
 
