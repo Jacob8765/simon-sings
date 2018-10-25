@@ -1,4 +1,4 @@
-# Simon Sings
+<p align="center"><img src="https://i.postimg.cc/6p1FtW6R/Mesa-de-trabajo-1xhdpi.pngL"></p>
 
 A new way to learn ear training.
 Demo: (http://simon-sings-demo.000webhostapp.com)
